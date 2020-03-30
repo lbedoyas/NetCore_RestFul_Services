@@ -1,0 +1,13 @@
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.0\Northwind.UnitOfWork.deps.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.0\Northwind.UnitOfWork.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.0\Northwind.UnitOfWork.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.0\Northwind.Models.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.0\Northwind.Repositories.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.0\Northwind.Repositories.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.0\Northwind.Models.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.AssemblyInfo.cs
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.csproj.CopyComplete
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.pdb

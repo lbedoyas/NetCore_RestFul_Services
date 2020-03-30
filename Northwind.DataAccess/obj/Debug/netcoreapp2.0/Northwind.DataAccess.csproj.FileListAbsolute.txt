@@ -1,0 +1,15 @@
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.0\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.0\Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.0\Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.DataAccess.deps.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.DataAccess.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.DataAccess.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.Models.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.Repositories.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.UnitOfWork.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.Repositories.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.UnitOfWork.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.Models.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.0\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.0\Northwind.DataAccess.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\proyectos\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.0\Northwind.DataAccess.pdb
